@@ -1,0 +1,10 @@
+c6f42594cff6772dda85fa5d585fcb7d *DESCRIPTION
+4dff79a616e379ead7fb924168f9fc07 *NAMESPACE
+045a43c1c65e457d2894ca08380598b1 *R/predict.rotationForest.R
+7eeaa4929f3c18b568866b481bb306e1 *R/rotationForest.R
+41572b3dd1f4dcda08d4dc7305af6334 *R/rotationForestNews.R
+76a43c10ee1fe563e640b8d5fbeab31a *R/zzz.R
+bafdf9d0edbee006e099136b9c863d31 *inst/NEWS
+fef05a5f0f0764bc8cedbfc4b9ce4239 *man/predict.rotationForest.Rd
+9eed821f3497dd1f15fa988186ac9171 *man/rotationForest.Rd
+f85b71898074e4881e8333428a58743b *man/rotationForestNews.Rd

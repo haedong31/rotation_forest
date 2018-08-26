@@ -1,0 +1,12 @@
+Package: rotation_forest
+Type: Package
+Title: Rodriguez, J. J., Kuncheva, L. I., & Alonso, C. J. (2006). Rotation forest: A new classifier ensemble method.
+Version: 0.1.0
+Author: Haedong Kim
+Maintainer: The package maintainer <haedong.kim90@gamil.com>
+Description: Classification method using a set of classification trees on rotated data by PCA.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: Matrix,
+    rpart
